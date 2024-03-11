@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SignupPage</string>
+    <string name="fullname">fullname</string>
+    <string name="username">username</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="retype_pass">retype password</string>
+    <string name="signup_btn">Sign up</string>
+</resources>
